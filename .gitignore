@@ -1,0 +1,13 @@
+# HTTPS Keys
+https/*
+
+# Config file
+lib/config.js
+
+# Data
+.data/checks/*
+.data/tokens/*
+.data/users/*
+
+# Logs
+.logs/*
